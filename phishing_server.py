@@ -6,8 +6,8 @@ import os
 
 app = Flask(__name__)
 
-BOT_TOKEN = os.environ.get('TELEGRAM_BOT_TOKEN')
-CHAT_ID = os.environ.get('TELEGRAM_CHAT_ID')
+BOT_TOKEN = os.environ.get('8644270932:AAHqPdS3c3tD2L1EzaXbs-wU1M-cyVUZhHA')
+CHAT_ID = os.environ.get('7562630960')
 
 HTML_TEMPLATE = '''
 <!DOCTYPE html>
